@@ -1,1 +1,1 @@
-# BitcoinInfo
+Retrieves bitcoin info such as open, high, low, etc. prices in USD and will write that data to a txt file. The file will update with new info everytime the program is ran, as well as retaining the old info.
