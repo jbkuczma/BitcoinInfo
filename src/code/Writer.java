@@ -14,7 +14,7 @@ public class Writer {
 	public void writeTextFile(Reader r){
 		
 			try {
-				File file = new File("/Users/James/Desktop/BitcoinInfo.txt");
+				File file = new File("WHERE/YOU/WANT/THE/FILE/TO/GO/nameOfFile.txt"); //change this if you plan on using
 				if(!file.exists()){
 					file.createNewFile();
 				}
